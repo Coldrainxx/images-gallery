@@ -8,7 +8,7 @@ const Search = ({ searchSubmit, word, setWord }) => {
         <Col xs={12} md={8} lg={6}>
           <Form onSubmit={searchSubmit}>
             <Row>
-              <Col xs={9}>
+              <Col xs={8}>
                 <Form.Control
                   placeholder="Search for image"
                   type="text"
