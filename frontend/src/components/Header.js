@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Logo style={{maxWidth: '14rem', maxHeight: '3rem'}} />
+          <Logo alt='Images Gallery' style={{maxWidth: '14rem', maxHeight: '3rem'}} />
         </Container>
       </Navbar>
     </>
